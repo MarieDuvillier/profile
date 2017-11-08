@@ -66,6 +66,7 @@ p {
 .img-size {
   width: 180px;
   height: 180px;
+  padding-top: 40px;
 }
 
 .text-align-right {
